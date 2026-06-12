@@ -14,3 +14,4 @@ curl -X POST "$ZAMMAD_URL/api/v1/tickets"   -H "Authorization: Token token=$ZAMM
     "priority_id": 3, 
     "state_id": 1 
   }'  
+  #
